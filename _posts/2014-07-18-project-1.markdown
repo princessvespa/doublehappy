@@ -1,0 +1,14 @@
+---
+title: Tarawera
+subtitle: Documentary
+layout: default
+modal-id: 1
+date: 2014-07-18
+thumbnail: tarawera-thumbnail.png
+project-date: April 2000
+description: In June 1886 Mt Tarawera spectacularly erupted, and this documentary tells the story of the people who were caught in the catastrophic events. Around 120 people lost their lives, and the internationally famous Pink and White Terraces were destroyed. The documentary features an animated re-creation of the eruption, archival images, interviews with descendants of those involved, and readings from written eyewitness accounts. The author of the book Tarawera, Ron Keam, is also interviewed.
+
+---
+
+<iframe src="https://player.vimeo.com/video/135552460" width="640" height="491" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/135552460">Tarawera</a> from <a href="https://vimeo.com/user12154982">richard@messengerfilms.co.nz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

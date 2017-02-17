@@ -1,0 +1,16 @@
+---
+title: 13 Ways of Looking at a Blackbird
+subtitle: Film
+layout: default
+modal-id: 2
+date: 2013-07-17
+thumbnail: 13-ways-thumbnail.png
+project-date: March 2013
+description: This Richard Riddiford documentary collects together stories about the creative writing course at Victoria University. The storytellers are a roll call of names who have studied and taught there, from course founder Bill Manhire to current Insititute of Modern Letters director Damien Wilkins. Writers praise the gentle style of teaching and sense of community (and feedback). Eleanor Catton talks about the journey from her first novel The Rehearsal, written while at Victoria, to the first sentence of The Luminaries. The doco is named after the poem by American Wallace Stevens.
+
+---
+
+
+<!-- Start NZ On Screen - 13 Ways of Looking at a Blackbird - Clip: 13 Ways of Looking at a Blackbird (Clip 1) Size: 585px by 410px -->
+<iframe width="585px" height="410px" src="https://www.nzonscreen.com/embed/ada0bb16fd24277d" frameborder="0" allowfullscreen></iframe> 
+<!-- End NZ On Screen - 13 Ways of Looking at a Blackbird - Clip: 13 Ways of Looking at a Blackbird (Clip 1) -->
