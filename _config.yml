@@ -12,6 +12,7 @@ people:
 - name: Michael Lamb
   pic: 6
   position: Writer/Producer
+  description: "Michael has a background as writer, with over 20 years as a copywriter and creative director with a side order of journalism. His awards include Axis, Orca (advertising) and Qantas (media). He has made short films and music videos, including writing the script for an NZ Film Commission-funded short film called The Off Season. He has experience in digital, including in 1996 co-founding the editorial fashion website Runway Reporter (sold that year to ACP Media, now part of Bauer). As a copywriter he has specialised as a creative consultant on TV commercials, working on a considerable number of projects globally, including Australia, the US, the UK, Italy, Russia, France, and around Asia."
   social:
 #    - title: twitter
 #      url: #
@@ -23,6 +24,7 @@ people:
 - name: Richard Riddiford
   pic: 7
   position: Director/Producer
+  description: "Richard has made over 30 documentaries including The Sixth Man about infamous NZ spy Paddy Costello; and Architect Of Dreams about leading NZ architect Ian Athfield. He has directed TV dramas in NZ and Australia and written and directed two feature films, as well as TV commercials."
   social:
 #    - title: twitter
 #      url: #
@@ -31,10 +33,10 @@ people:
 #    - title: linkedin
 #      url: #
 
-- name: Athena Rhodes
-  pic: 5
-  position: Forever Intern
-  social:
+#- name: Athena Rhodes
+  #pic: 5
+ # position: Forever Intern
+  #social:
 #    - title: twitter
 #      url: rhodesathena
 
