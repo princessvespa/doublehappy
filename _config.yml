@@ -10,7 +10,7 @@ description: "DOUBLE HAPPY MEDIA specialize in producing New Zealand Documentari
 # Team names, titles and social links
 people:
 - name: Michael Lamb
-  pic: 1
+  pic: 6
   position: Writer/Producer
   social:
 #    - title: twitter
@@ -21,7 +21,7 @@ people:
 #      url: #
 
 - name: Richard Riddiford
-  pic: 2
+  pic: 7
   position: Director/Producer
   social:
 #    - title: twitter
@@ -32,7 +32,7 @@ people:
 #      url: #
 
 - name: Athena Rhodes
-  pic: 3
+  pic: 5
   position: Forever Intern
   social:
 #    - title: twitter
@@ -53,8 +53,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 195 Ponsonby Road
+  - line: Ponsonbey
 
 # Build settings
 markdown: kramdown
