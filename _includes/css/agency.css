@@ -22,6 +22,16 @@ body {
     text-align: justify;
 }
 
+.team-email{
+    
+    text-align:justify;
+    font-size: 15px;
+    text-decoration: underline;
+    padding-top: 15px;
+    font-family: monospace;
+        
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
