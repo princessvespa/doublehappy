@@ -20,6 +20,8 @@ body {
 
 .team-description{
     text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .team-email{
@@ -27,9 +29,19 @@ body {
     text-align:justify;
     font-size: 15px;
     text-decoration: underline;
-    padding-top: 15px;
     font-family: monospace;
+    display: table-cell;
+    vertical-align: middle;
+    
         
+}
+
+.table-container{
+    
+    display:table;
+    margin: auto;
+    padding-bottom: 12px;
+    
 }
 
 p {
