@@ -1,0 +1,15 @@
+
+---
+title: A Place to Call Home
+subtitle: Documentary
+layout: default
+modal-id: 5
+date: 2015-07-18
+thumbnail: home-thumbnail.png
+project-date: 2015
+description: In 2012 a number of state houses were relocated from Glen Innes in Auckland to Kaitaia, making way for property developers. A Place to Call Home follows two women at odds with each other, both railing for positive change. Betty Kanuta is an evicted tenant, leading protests against the destruction of her community. Fleur Palmer is purchasing some of the state houses to build a Māori housing development, to help poor families in Kaitaia. Director Briar March's documentary debuted on Māori Television in 2014 as Whare Tapa Whā, before being expanded into a feature-length cut.
+---
+
+<!-- Start NZ On Screen - A Place to Call Home Size: 585px by 410px -->
+<iframe width="585px" height="410px" src="https://www.nzonscreen.com/embed/a659b2c492287d0a" frameborder="0" allowfullscreen></iframe> 
+<!-- End NZ On Screen - A Place to Call Home -->

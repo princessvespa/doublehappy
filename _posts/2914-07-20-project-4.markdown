@@ -1,0 +1,15 @@
+---
+title: The Man Who Knew Too Much 
+subtitle: Documentary
+layout: default
+modal-id: 4
+date: 2014-07-20
+thumbnail: theman.png
+project-date: November 2016
+description: 
+
+---
+
+<img src="img/portfolio/theman.png" /> 
+
+A dynamic look into the man who was Paddy Costello. 
