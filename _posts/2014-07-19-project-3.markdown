@@ -1,0 +1,25 @@
+---
+title: Sanctuary 
+subtitle: Documentary
+layout: default
+modal-id: 3
+date: 2014-07-19
+thumbnail: sanctuary.png
+project-date: November 2016
+description: 
+
+---
+
+<img src="img/portfolio/sanctuary.png" /> 
+
+In a world facing environmental catastrophe, there are few places where there is still hope. New Zealand--isolated, pristine, pure. A place for the future.
+
+Where people can dream about a better way. Dream of a Sanctuary. This documentary will follow seven families over a period of one year in extraordinary unspoilt landscapes. 
+
+Capturing the good times, as well as the hardships which they face. 
+
+To find Sanctuary.
+
+For a sneak peek at this project, please send an email to one of us for the password. Cheers. 
+
+
