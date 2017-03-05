@@ -10,6 +10,6 @@ description:
 
 ---
 
-<img src="img/portfolio/theman.png" /> 
+<img class="project-modal" src="img/portfolio/theman.png" /> 
 
 A dynamic look into the man who was Paddy Costello. 

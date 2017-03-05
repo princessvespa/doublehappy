@@ -10,7 +10,7 @@ description:
 
 ---
 
-<img src="img/portfolio/sanctuary.png" /> 
+<img class="project-modal" src="img/portfolio/sanctuary.png" /> 
 
 In a world facing environmental catastrophe, there are few places where there is still hope. New Zealand--isolated, pristine, pure. A place for the future.
 
