@@ -10,6 +10,18 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.project-modal{
+    min-width :340px;
+    min-height: 200px;
+}
+
+@media (min-width: 640px) {
+    .project-modal{
+        width :640px;
+        height: 480px;
+    }
+}
+
 .text-muted {
     #{{ site.data.template.color.muted }};
 }
@@ -834,6 +846,15 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
+    width :300px;
+    height: 216px;
+}
+
+@media (min-width: 640px) {
+    .portfolio-modal .modal-content img{
+        width :400px;
+        height: 289px;
+    }
 }
 
 .portfolio-modal .close-modal {

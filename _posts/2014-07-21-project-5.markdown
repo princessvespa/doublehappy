@@ -10,6 +10,6 @@ description: In 2012, a number of state houses were relocated from Glen Innes in
 ---
 
 <!-- Start NZ On Screen - A Place to Call Home Size: 585px by 410px -->
-<iframe width="585px" height="410px" src="https://www.nzonscreen.com/embed/a659b2c492287d0a" frameborder="0" allowfullscreen></iframe> 
+<iframe class="project-modal" src="https://www.nzonscreen.com/embed/a659b2c492287d0a" frameborder="0" allowfullscreen></iframe> 
 <!-- End NZ On Screen - A Place to Call Home -->
 <br>

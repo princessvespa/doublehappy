@@ -12,5 +12,5 @@ description: This Richard Riddiford documentary collects together stories about 
 
 
 <!-- Start NZ On Screen - 13 Ways of Looking at a Blackbird - Clip: 13 Ways of Looking at a Blackbird (Clip 1) Size: 585px by 410px -->
-<iframe width="585px" height="410px" src="https://www.nzonscreen.com/embed/ada0bb16fd24277d" frameborder="0" allowfullscreen></iframe> 
+<iframe class="project-modal" src="https://www.nzonscreen.com/embed/ada0bb16fd24277d" frameborder="0" allowfullscreen></iframe> 
 <!-- End NZ On Screen - 13 Ways of Looking at a Blackbird - Clip: 13 Ways of Looking at a Blackbird (Clip 1) -->
